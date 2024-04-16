@@ -1,0 +1,19 @@
+/src/node_modules
+/src/public/build
+/src/public/hot
+/src/public/storage
+/src/storage/views/**
+/src/vendor
+/src/.env
+/src/npm-debug.log
+/src/yarn-error.log
+/src/.fleet
+/src/.idea
+/src/.vscode
+
+/src/docker-compose.yml
+
+
+# personal files to ignore
+/.___docs
+/**/*__00__*
